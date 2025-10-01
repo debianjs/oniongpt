@@ -1,0 +1,12 @@
+{
+  "name": "oniongpt",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.3",
+    "@cloudflare/workers-types": "^4.20230814.0"
+  }
+}
